@@ -1,16 +1,14 @@
- Hi 👋 My name is Sabbir
-======================
+# Hi 👋 My name is Sabbir
 
-Front End Developer
-----------------------------
+## Front End Developer
 
 Welcome, I’m Sabbir Ahmmed, Professional Front-end Web Developer. Especially, I'm expert on "PSD TO HTML" "Xd to HTML" "Figma to HTML". My area of expertise covers HTML5, CSS3, CSS3 Animation, SASS/SCSS, Bootstrap/Tailwind, JavaScript, React JS, Next JS, jQuery and many more. I can create any kinds of websites as static HTML/CSS. Which is Clean/Responsive/W3C Valid/Cross-Browser/SEO Friendly and Pixel Perfect. If you want your site to be Responsive design for a better view in mobile.
 
-* 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [sabbir](http://google.com)
-* 🧠  I'm learning  Rust
+- 🌍  I'm based in Dhaka, Bangladesh
+- 🖥️  See my portfolio at [sabbir](http://google.com)
+- 🧠 I'm learning Rust
 
-* ⚡ Am Friendly Person Over a Developer ):
+- ⚡ Am Friendly Person Over a Developer ):
 
 <a href="https://www.twitter.com/codersabbir" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/codersabbir?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -32,14 +30,30 @@ src="https://img.shields.io/github/followers/codersabbir?logo=github&style=for-t
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-### Badges
+###
 
-<b>My GitHub Stats</b>
+<h3 align="center">🤞 Trophies 🤞</h3>
 
+###
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=codersabbir1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
+###
+
+<h3 align="center">⚡ Stats ⚡</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=codersabbir1&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codersabbir1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codersabbir1&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
